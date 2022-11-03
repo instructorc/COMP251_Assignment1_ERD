@@ -1,5 +1,5 @@
 # Assignment 1 - Creating an ER Diagram for MPLSRenters.com
-This assignment will meet all of the objectives below:
+This assignment will meet each of the objectives below:
 1. Translate business use cases for data into entity relationships
 
 2. Determine appropriate entity structure for relational databases
