@@ -9,9 +9,11 @@ This assignment will meet each of the objectives below:
 4. Design an ER model
 
 ## Instructions
-For this assignment, you will need to analyze the business description below and identify business rules that you will need to generate an ER diagram.  The business rules you identify will consist of relationships,  constraints, and data you will need to collect.  You will create a readme file that identifies each of the entities along with a brief description describing the purpose of the entity and the data the entity will collect, You will also need to identify the relationships between entities and any assumptions or questions you have for the client after reading the business description.  You will ultimately decide the answer on behalf of the client when you list your assumptions.
+For this assignment, your task is to analyze the provided business description and identify the necessary business rules to create an ER diagram. These rules will encompass relationships, constraints, and data requirements.
 
-Once you have completed the README.md file, you will create an ER Diagram based on the relationships you have identified from the business description.  You will create the ER Diagram using a free web-based tool titled draw.io.  The shapes you will use to create your ER diagram can be found under the "Entity Relation" tab.  Instructions on how to operate draw.io can be found in the assignment resources section below.
+You are required to compile a README.md file, which will detail each entity along with a brief description of its purpose and the data it collects. Additionally, identify the relationships between entities and note any assumptions or questions you may have for the client based on the business description. You will also decide the answers to your assumptions on behalf of the client.
+
+After completing the README.md file, your next step is to construct an ER Diagram based on the identified relationships from the business description. This diagram should be created using a free web-based tool called 'draw.io.' You'll find the shapes needed for your ER diagram under the 'Entity Relation' tab. Instructions on how to operate draw.io can be found in the assignment resources section below.
 
 ## Business Description
 MPLSRenters.com is a website that allows prospective apartment renters to create a profile and have
