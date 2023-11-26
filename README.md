@@ -52,6 +52,14 @@ For this assignment, you will submit 2 items to the repository that has been ass
 
 Once you have completed both of the items above, you will need to submit the link to your repository for assignment 1 prior to the due date and time listed.  Make sure you receive an email confirmation notifying you that the assignment has been submitted.
 
+### Rubric
+| Criteria           | Description                             | Points |
+| -------------------| --------------------------------------- | ------ |
+|**Deliverable 1 - Write-up documented in README.md file**   | Write-up identifies the various entities with brief description (2pts) <br> Write-up identifies the various relationships that exist between the entities (4pt) <br> Write-up list assumptions that provides context for cardinality and entity strength (2 pts) <br> Write-up contains uppercase entity names, underlined verb and relationships are bi-directional (2 pts)  |   10   |
+|**Deliverable 2 - Properly structured ER diagram** | All Entities identified in deliverable 1 are visually represented in Workbench ER diagram. (4pts) <br> Relationship strength is indicated by solid or dotted line (2pt) <br> Foreign keys and Primary keys are identified and correctly assigned (2 pts) <br> Each column name indicates null vs not null (1pt) <br> Image of ER diagram is depicted in README.me file (1 pt)   |   10   |
+
+|           |        |**Total Points:   30**   |
+
 
 ## Assignment Resources
 - [Mark-down Syntax Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
