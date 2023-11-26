@@ -55,8 +55,8 @@ Once you have completed both of the items above, you will need to submit the lin
 ### Rubric
 | Criteria           | Description                             | Points |
 | -------------------| --------------------------------------- | ------ |
-|**Deliverable 1 - Write-up documented in README.md file**   | Write-up identifies the various entities with brief description (2pts) <br> Write-up identifies the various relationships that exist between the entities (4pt) <br> Write-up list assumptions that provides context for cardinality and entity strength (2 pts) <br> Write-up contains uppercase entity names, underlined verb and relationships are bi-directional (2 pts)  |   10   |
-|**Deliverable 2 - Properly structured ER diagram** | All Entities identified in deliverable 1 are visually represented in Workbench ER diagram. (4pts) <br> Relationship strength is indicated by solid or dotted line (2pt) <br> Foreign keys and Primary keys are identified and correctly assigned (2 pts) <br> Each column name indicates null vs not null (1pt) <br> Image of ER diagram is depicted in README.me file (1 pt)   |   10   |
+|**Deliverable 1 - Write-up documented in README.md file**   | Write-up identifies the various entities with brief description (4pts) <br> Write-up identifies the various relationships that exist between the entities (6pt) <br> Write-up list assumptions that provides context for cardinality and entity strength (2 pts) <br> Write-up contains uppercase entity names, underlined verb and relationships are bi-directional (3 pts)  |   15   |
+|**Deliverable 2 - Properly structured ER diagram** | All Entities identified in deliverable 1 are visually represented in Workbench ER diagram. (4pts) <br> Relationship strength is indicated by solid or dotted line (2pt) <br> Foreign keys and Primary keys are identified and correctly assigned (2 pts) <br> Each column name indicates null vs not null (2pt) <br> Image of ER diagram is depicted in README.me file (2 pt) <br> Associative entities are identified and properly structured (3 pts)   |   15   |
 
 |           |        |**Total Points:   30**   |
 
